@@ -1,0 +1,26 @@
+CASE DESCRIPTION DATASET
+
+Nama Partner: Vanisa Eka Bela
+NIM Partner: 3022410005
+
+Judul/Kasus:
+Pelanggan E-Commerce
+
+Deskripsi Kasus:
+Dataset berisi data pelanggan e-commerce yang digunakan untuk
+melakukan analisis dan proses data preprocessing.
+
+Tujuan:
+Melakukan preprocessing terhadap dataset pelanggan e-commerce
+untuk mengidentifikasi dan menangani berbagai permasalahan data
+seperti missing value, duplicate, data entry error, inconsistent
+data, impossible value, outlier, serta melakukan transformasi data.
+
+Jumlah Data:
+158 baris dan 15 variabel.
+
+Jenis Variabel:
+Dataset memiliki variabel numerik dan kategorikal.
+
+Sumber Dataset:
+Dataset diberikan oleh partner untuk keperluan tugas Data Preparation.

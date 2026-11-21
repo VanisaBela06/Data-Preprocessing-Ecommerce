@@ -1,0 +1,159 @@
+ID_Pelanggan,Usia,Jenis_Kelamin,Kota,Pendidikan,Pekerjaan,Pendapatan_Bulanan_Juta,Frekuensi_Belanja,Rata_Rata_Transaksi_Ribu,Total_Belanja_Ribu,Metode_Pembayaran,Tanggal_Daftar,Rating_Kepuasan,Negara,Churn
+P030,33.0,Perempuan,SURABAYA,SMA,Wiraswasta,7000000.0,9.0,231.0,2079.0,E-Wallet,2030-05-17,4.0,Indonesia,Tidak
+P108,39.0,Laki-laki,Jakarta,S1,Karyawan Swasta,4.4,13.0,-,3120.0,Kartu Kredit,2022-03-18,3.0,Indonesia,Tidak
+P015,51.0,Laki-laki,Jakarta,S1,PNS,6.6,10.0,-,9500000,Transfer Bank,2022-06-24,5.0,Indonesia,Tidak
+P082,29.0,Perempuan,Jakarta,S1,Mahasiswa,3.5,9.0,70.0,630.0,COD,2024-09-22,4.0,Indonesia,Tidak
+P125,31.0,Perempuan,Surabaya,SMA,PNS,7.6,6.0,152.0,912.0,Kartu Kredit,2023-09-30,3.0,Indonesia,Tidak
+P020,-25,Perempuan,Bandung,S2,Karyawan Swasta,12.8,12.0,166.0,1992.0,Transfer Bank,2022-01-13,5.0,Indonesia,Tidak
+P074,34.0,Perempuan,Surabaya,S1,Mahasiswa,,10.0,237.0,2370.0,E-Wallet,2023-02-01,5.0,Indonesia,Tidak
+P012,21.0,Laki-laki,Medan,S1,PNS,2.9,10.0,242.0,2420.0,e-wallet,2024-08-16,4.0,Indonesia,Tidak
+P041,20.0,Laki-laki,Jakarta,S1,Wiraswasta,6.2,7.0,100.0,700.0,COD,2024-07-26,3.0,Indonesia,Tidak
+P096,19.0,Perempuan,Bandung,S1, Freelancer ,12.1,9.0,191.0,1719.0,E-Wallet,2023-11-28,5.0,Indonesia,ya
+P101,58.0,Laki-laki,,S1,Karyawan Swasta,9.3,-3,82.0,902.0,COD,2022-05-18,4.0,Indonesia,Tidak
+P093,150,Perempuan,Jakarta,S1,Karyawan Swasta,8.0,14.0,7500,1638.0,COD,2022-06-08,5.0,Indonesia,Tidak
+P109,36.0,Laki-laki,Surabaya,D3,Karyawan Swasta,5.7,13.0,451.0,5863.0,Kartu Kredit,2023-12-24,3.0,Indonesia,Tidak
+P095,,Perempuan,Jakarta,S1,Mahasiswa,6.0,10.0,261.0,2610.0,E-Wallet,2022-09-19,7,Indonesia,Tidak
+P059,24.0,Perempuan,Surabaya,Sarjana,Wiraswasta,1.5,11.0,175.0,1925.0,E-Wallet,2022-09-13,,Indonesia,Tidak
+P089,18.0,Laki-laki,Surabaya,SMA,PNS,7.6,9.0,166.0,1494.0,E-Wallet,2023-04-21,,Indonesia,Tidak
+P043,48.0,Laki-laki,Malang,S1,Wiraswasta,10.2,7.0,133.0,931.0,Transfer Bank,2023-07-05,4.0,Indonesia,Tidak
+P054,45.0,Laki-laki,Malang,S1,Karyawan Swasta,9.4,12.0,108.0,1296.0,E-Wallet,2023-11-24,4.0,Indonesia,Tidak
+P052,31.0,Perempuan,Surabaya,SMA,Karyawan Swasta,5.3,5.0,220.0,1100.0,Kartu Kredit,2022-10-13,5.0,Indonesia,Tidak
+P146,18.0,Perempuan,Jakarta,S1,Karyawan Swasta,8.8,8.0,70.0,560.0,COD,2023-10-30,1.0,Indonesia,Tidak
+P060,21.0,Perempuan,Surabaya,D3,Karyawan Swasta,6.9,8.0,126.0,1008.0,E-Wallet,2023-04-09,3.0,Indonesia,Ya
+P036,42.0,L,Surabaya,S1,Karyawan Swasta,,11.0,128.0,1408.0,E-Wallet,2024-08-27,,Indonesia,Tidak
+P144,33.0,Perempuan,Bandung,,Karyawan Swasta,120,11.0,286.0,3146.0,E-Wallet,2023-02-16,2.0,Indonesia,Tidak
+P006,28.0,Laki-laki,Medan,S1,Freelancer,,9.0,90.0,810.0,Transfer Bank,2023-10-02,3.0,Indonesia,Tidak
+P127,46.0,Perempuan,Jakarta,S1,Freelancer,8.0,6.0,149.0,894.0,,2024-02-20,1.0,Indonesia,Ya
+P032,35.0,Perempuan,Medan,SMA,Mahasiswa,3.2,14.0,249.0,3486.0,E-Wallet,2023-06-12,3.0,Indonesia,Tidak
+P017,40.0,Laki-laki,Bandung,S2,,,9.0,86.0,774.0,COD,05-24-22,5.0,Indonesia,Tidak
+P079,55.0,Laki-laki,Bandung,D3,Freelancer,7.1,8.0,200.0,1600.0,Transfer Bank,2023-04-04,2.0,Indonesia,Tidak
+P119,33.0,Perempuan,Jakarta,S1,Karyawan Swasta,,9.0,134.0,1206.0,Transfer Bank,2022-07-20,3.0,Indonesia,Ya
+P092,27.0,Perempuan,Malang,S1,Mahasiswa,6200000.0,14.0,214.0,2996.0,E-Wallet,,2.0,Indonesia,Tidak
+P121,32.0,Perempuan,Bandung,S1,Karyawan Swasta,8.1,11.0,160.0,1760.0,E-Wallet,2022-03-29,2.0,Indonesia,Tidak
+P028,34.0,Perempuan,Surabaya,SMA,Mahasiswa,3.0,9.0,151.0,1359.0,,2022-12-06,4.0,Indonesia,Tidak
+P136,36.0,Laki-laki,Surabaya,S2,Karyawan Swasta,12.8,,221.0,2210.0,Transfer Bank,2022-03-30,4.0,Indonesia,Tidak
+P045,29.0,Perempuan,Semarang,S1,Karyawan Swasta,5.9,8.0,132.0,1056.0,Transfer Bank,2022-08-31,4.0,Indonesia,Tidak
+P128,35.0,Laki-laki,Surabaya,SMA,Karyawan Swasta,4.5,7.0,393.0,2751.0,COD,2023-10-15,3.0,Indonesia,Ya
+P086,43.0,Perempuan,Surabaya,S1,Mahasiswa,4.3,10.0,219.0,2190.0,Transfer Bank,12/07/2023,4.0,Indonesia,Ya
+P078,34.0,Perempuan,,S2,Freelancer,12.3,15.0,207.0,3105.0,E-Wallet,2022-04-10,5.0,Indonesia,Tidak
+P104,35.0,Laki-laki,Medan,S1, Mahasiswa ,9.3,,282.0,3666.0,Transfer Bank,2022-01-27,3.0,Indonesia,Tidak
+P034,34.0,Perempuan,Jakarta,SMA,PNS,3.5,2.0,304.0,608.0,E-Wallet,11-Jan-2023,3.0,Indonesia,Tidak
+P103,29.0,Perempuan,Jakarta,SMA,Mahasiswa,6.5,7.0,182.0,1274.0,Transfer Bank,2023-01-16,,Indonesia,Tidak
+P057,18.0,Perempuan,Jakarta,SMA,PNS,3.6,8.0,119.0,952.0,COD,2022-08-27,0,Indonesia,YA
+P137,22.0,L,jakarta,D3,,1.9,8.0,210.0,1680.0,Kartu Kredit,2023-01-06,2.0,Indonesia,Ya
+P133,36.0,Laki-laki,Bandung,S1,Freelancer,6.5,10.0,203.0,Rp 2.030,E-Wallet,2024-01-04,2.0,Indonesia,Ya
+P013,23.0,Laki-laki,Bandung,D3,Karyawan Swasta,7.1,,125.0,1375.0,Kartu Kredit,06-28-24,2.0,Indonesia,Tidak
+P055,,Perempuan,Malang,S1,Karyawan Swasta,5.9,12.0,341.0,4092.0,E-Wallet,2024-09-19,2.0,Indonesia,Tidak
+P105,48.0,Perempuan,Semarang,S1,Freelancer,9.5,9.0,203.0,1827.0,E-Wallet,2022-10-14,2.0,Indonesia,Tidak
+P029,46.0,perempuan,Surabaya,S2,Wiraswasta,13.6,8.0,216.0,1728.0,Transfer Bank,2024-04-10,5.0,Indonesia,Tidak
+P070,44.0,Perempuan,Jakarta,SMA,Freelancer,5.5,10.0,177.0,1770.0,E-Wallet,2023-06-01,4.0,Indonesia,Tidak
+P115,34.0,Laki-laki,Surabaya,S1,Karyawan Swasta,8.5,-3,153.0,1683.0,,2024-05-17,1.0,Indonesia,Tidak
+P131,43.0,Perempuan,Surabaya,SMA,Mahasiswa,1.8,8.0,201.0,1608.0,E-Wallet,2024-03-29,3.0,Indonesia,Tidak
+P018,24.0,Laki-laki,Surabaya,S1,Karyawan Swasta,8.7,6.0,169.0,1014.0,Transfer Bank,2023-01-13,5.0,Indonesia,Tidak
+P076,22.0,perempuan,surabaya,S1,Wiraswasta,7.6,10.0,274.0,2740.0,E-Wallet,2022-02-11,3.0,Indonesia,Tidak
+P085,35.0,Laki-laki,Surabaya,S1,Karyawan Swasta,6.0,10.0,168.0,1680.0,E-Wallet,2023-10-21,,Indonesia,Tidak
+P014,25.0,Laki-laki,Semarang,S1,Mahasiswa,8.5,7.0,122.0,854.0,,2023-08-09,5.0,Indonesia,Tidak
+P112,20.0,Laki-laki,Surabaya,Sarjana, Karyawan Swasta ,11.4,5.0,217.0,1085.0,COD,2022-01-04,3.0,Indonesia,Ya
+P019,40.0,L,Semarang,,Freelancer,8.8,12.0,182.0,2184.0,Transfer Bank,2022-11-26,3.0,Indonesia,Tidak
+P049,38.0,Perempuan,,S1,,6.2,13.0,229.0,2977.0,E-Wallet,2024-01-29,5.0,Indonesia,Tidak
+P091,22.0,Perempuan,Surabaya,D3,PNS,4.8,9.0,5000,1359.0,E-Wallet,01-06-23,5.0,Indonesia,Tidak
+P005,18.0,Perempuan,Surabaya,S2,Mahasiswa,10.2,11.0,121.0,1331.0,Transfer Bank,2023-09-09,4.0,Indonesia,Tidak
+P046,45.0,Perempuan,jakarta,S2,Wiraswasta,11.9,9.0,117.0,1053.0,COD,2023-05-15,5.0,Indonesia,Tidak
+P067,29.0,Pria,Bandung,S2,Mahasiswa,10.2,9.0,141.0,1269.0,E-Wallet,2022-04-26,4.0,Indonesia,Tidak
+P040,21.0,Laki-laki,Malang,S1,Freelancer,6.1,9.0,140.0,1260.0,Transfer Bank,2022-11-16,5.0,Indonesia,Tidak
+P037,36.0,laki-laki,Surabaya,SMA,Mahasiswa,2.3,,182.0,Rp 1.092,Transfer Bank,2023-03-21,4.0,Indonesia,Tidak
+P124,35.0,Laki-laki,Jakarta,S1,Wiraswasta,7.8,9.0,60.0,540.0,COD,07-Feb-2024,2.0,Indonesia,Tidak
+P147,-25,Perempuan,Jakarta,S1,Karyawan Swasta,10.6,8.0,223.0,1784.0,e-wallet,2023-06-07,3.0,Indonesia,Tidak
+P113,30.0,Perempuan,Jakarta,S1,Wiraswasta,11.5,4.0,286.0,1144.0,E-Wallet,2023-08-25,4.0,Indonesia,Tidak
+P100,49.0,Perempuan,Medan,SMA,Karyawan Swasta,5.7,7.0,146.0,1022.0,E-Wallet,2022-05-03,5.0,Indonesia,Tidak
+P120,35.0,Perempuan,Sby,S1,Freelancer,8.8,11.0,148.0,1628.0,Kartu Kredit,2023-03-28,3.0,Indonesia,Tidak
+P003,31.0,Laki-laki,Semarang,S2,Karyawan Swasta,8.6,14.0,199.0,2786.0,Transfer Bank,2023-06-23,4.0,Indonesia,Tidak
+P110,?,Perempuan,Medan,S1,Wiraswasta,6.9,14.0,267.0,3738.0,Transfer Bank,2022-07-14,2.0,Indonesia,Tidak
+P007,32.0,Laki-laki,Malang,SMA,Wiraswasta,3.8,6.0,183.0,1098.0,Kartu Kredit,2023-05-30,5.0,Indonesia,Tidak
+P001,7,Laki-laki,Semarang,S2,Karyawan Swasta,14.4,7.0,156.0,1092.0,E-Wallet,12-Sep-2022,1.0,Indonesia,YA
+P117,36.0,Perempuan,Malang,S2,Freelancer,12.0,11.0,263.0,Rp 2.893,E-Wallet,2022-07-24,4.0,Indonesia,Tidak
+P066,28.0,Perempuan,Bandung,SMA,Wiraswasta,1.5,8.0,221.0,1768.0,E-Wallet,2023-11-10,4.0,Indonesia,Tidak
+P056,38.0,Perempuan,Semarang,S2,Freelancer,12.0,7.0,125.0,875.0,E-Wallet,2022-01-26,3.0,Indonesia,Ya
+P090,31.0,Laki-laki,Bandung,D3,Freelancer,6.5,15.0,87.0,1305.0,E-Wallet,2024-04-06,5.0,Indonesia,ya
+P064,20.0,Perempuan,Malang,Sarjana,Freelancer,6.3,6.0,104.0,624.0,Transfer Bank,2023-09-10,1.0,Indonesia,Tidak
+P047,22.0,Perempuan,Jakarta,S1,Wiraswasta,,,199.0,2587.0,Kartu Kredit,04-20-22,5.0,Indonesia,Tidak
+P063,40.0,Perempuan,Bandung,,Wiraswasta,7.8,16.0,131.0,2096.0,Transfer Bank,2024-03-26,5.0,Indonesia,Tidak
+P075,34.0,Laki-laki,Surabaya,S1,PNS,9.1,7.0,70.0,490.0,Kartu Kredit,2023-04-22,4.0,Indonesia,Tidak
+P123,26.0,Perempuan,Surabaya,S1,Karyawan Swasta,7.9,9.0,127.0,1143.0,E-Wallet,2024-05-04,5.0,Indonesia,Tidak
+P098,20.0,,Surabaya,,Karyawan Swasta,10.3,5.0,109.0,545.0,Transfer Bank,2024-05-08,4.0,Indonesia,Tidak
+P106,23.0,Laki-laki,Malang,S1,Mahasiswa,9.3,2.0,218.0,436.0,Kartu Kredit,2024-04-16,4.0,Indonesia,Tidak
+P094,31.0,P,Jakarta,S1,Wiraswasta,,8.0,233.0,1864.0,Kartu Kredit,2023-09-12,1.0,Indonesia,Ya
+P011,28.0,Perempuan,Jakarta,S1,PNS,7.0,8.0,226.0,1808.0,Transfer Bank,2022-02-05,3.0,Indonesia,Ya
+P035,28.0,Perempuan,Jakarta,s1,Wiraswasta,13.9,7.0,369.0,2583.0,E-Wallet,16/02/2022,5.0,Indonesia,Tidak
+P033,44.0,Laki-laki,Jakarta,S1,Karyawan Swasta,8.6,4.0,268.0,Rp 1.072,COD,2030-05-17,4.0,Indonesia,Tidak
+P042,47.0,Perempuan,Semarang,,Freelancer,,9.0,188.0,1692.0,Transfer Bank,2022-10-21,5.0,Indonesia,Tidak
+P039,34.0,laki-laki,Surabaya,SMA,Mahasiswa,1.5,13.0,174.0,2262.0,cod,,4.0,Indonesia,Tidak
+P084,27.0,Laki-laki,Surabaya,SMA,Karyawan Swasta,6.4,7.0,192.0,1344.0,Transfer Bank,2022-01-16,4.0,Indonesia,Tidak
+P118,41.0,,Malang,,Mahasiswa,12.4,9.0,507.0,4563.0,E-Wallet,2022-06-15,5.0,Indonesia,Tidak
+P011,45,Perempuan,Jakarta,S1,PNS,7.0,8.0,226.0,1808.0,Transfer Bank,2022-02-05,2,Indonesia,Ya
+P028,34.0,Perempuan,Surabaya,SMA,Mahasiswa,3.0,9.0,151.0,1359.0,,2022-12-06,4.0,Indonesia,Tidak
+P024,36.0,Laki-laki,,SMA,Wiraswasta,5.3,13.0,188.0,2444.0,Kartu Kredit,,3.0,Indonesia,Tidak
+P068,41.0,Perempuan,Jakarta,S1,Freelancer,10900000.0,11.0,96.0,1056.0,Transfer Bank,2024-01-17,3.0,Indonesia,Tidak
+P010,N/A,Laki-laki,Jakarta,SMA,Karyawan Swasta,5.0,11.0,405.0,4455.0,Kartu Kredit,2022-01-17,4.0,Indonesia,Tidak
+P149,35.0,Laki-laki,Jakarta,S1,PNS,7.7,11.0,326.0,3586.0,COD,2023-12-07,5.0,Indonesia,Tidak
+P103,29.0,Perempuan,Jakarta,SMA,Mahasiswa,6.5,7.0,182.0,1274.0,Transfer Bank,2023-01-16,,Indonesia,Tidak
+P111,31.0,Perempuan,Jakarta,,Freelancer,5.4,8.0,96.0,768.0,transfer bank,12-19-22,5.0,Indonesia,Tidak
+P139,34.0,laki-laki,Semarang,S1,Mahasiswa,10.0,5.0,213.0,1065.0,Transfer Bank,2024-07-25,2.0,Indonesia,Tidak
+P088,,Perempuan,Jakarta,SMA,Freelancer,5.9,7.0,231.0,1617.0,Kartu Kredit,2024-01-22,3.0,Indonesia,Tidak
+P099,22.0,Laki-laki,Surabaya,D3,PNS,3.7,,385.0,4620.0,Transfer Bank,18/07/2024,3.0,Indonesia,Tidak
+P148,34.0,Laki-laki,Bandung,S-2,Karyawan Swasta,7.7,8.0,75.0,600.0,COD,2023-04-02,4.0,Indonesia,Tidak
+P132,34.0,Laki-laki,Jkt,D3,Mahasiswa,5.2,10.0,252.0,15000000,E-Wallet,2022-10-23,4.0,Indonesia,Tidak
+P065,32.0,Laki-laki,Bandung,S1,Wiraswasta,,7.0,264.0,Rp 1.848,E-Wallet,2023-09-08,4.0,Indonesia,Tidak
+P016,25.0,Perempuan,Surabaya,D3,PNS,2.9,7.0,194.0,1358.0,transfer bank,2024-02-21,5.0,Indonesia,Tidak
+P083,19.0,Laki-laki,Jkt,S2,Karyawan Swasta,14.0,11.0,132.0,1452.0,E-Wallet,2023-01-13,3.0,Indonesia,Tidak
+P042,47.0,Perempuan,Semarang,,Freelancer,,9.0,188.0,1692.0,Transfer Bank,2022-10-21,5.0,Indonesia,Tidak
+P081,24.0,Perempuan,Malang,S1,,4.8,8.0,226.0,1808.0,E-Wallet,2022-03-22,3.0,Indonesia,Tidak
+P053,35.0,Perempuan,Semarang,Sarjana,Karyawan Swasta,8.0,6.0,118.0,708.0,Kartu Kredit,2023-07-03,,Indonesia,Tidak
+P027,tiga puluh,Laki-laki,Jakarta,S1,Karyawan Swasta,120,9.0,161.0,1449.0,Transfer Bank,2023-06-04,2.0,Indonesia,Ya
+P077,33.0,Perempuan,Jakarta,SMA,Wiraswasta,4.6,8.0,113.0,904.0,E-Wallet,2023-12-28,,Indonesia,Tidak
+P044,,Laki-laki,Jakarta,SMA, Freelancer ,3.5,7.0,188.0,1316.0,cod,2023-06-28,5.0,Indonesia,Tidak
+P114,30.0,Perempuan,jakarta,D3,Mahasiswa,8.2,9.0,293.0,2637.0,Transfer Bank,2023-03-22,5.0,Indonesia,Tidak
+P025,28.0,Perempuan,Semarang,,Wiraswasta,14.5,10.0,231.0,Rp 2.310,COD,2022-01-01,3.0,Indonesia,Tidak
+P142,31.0,Perempuan,Jakarta,S2,Freelancer,12.1,10.0,214.0,2140.0,Transfer Bank,2024-08-08,5.0,Indonesia,Tidak
+P126,51.0,Laki-laki,Jakarta,SMA,Karyawan Swasta,,7.0,210.0,1470.0,Transfer Bank,2024-06-12,5.0,Indonesia,YA
+P045,29.0,Perempuan,Semarang,S1,Karyawan Swasta,5.9,8.0,132.0,1056.0,Transfer Bank,2022-08-31,4.0,Indonesia,Tidak
+P050,28.0,Laki-laki,Surabaya,SMA,Freelancer,5.1,7.0,435.0,3045.0,E-Wallet,2024-08-08,,Indonesia,Tidak
+P022,?,Perempuan,Jakarta,D3,Karyawan Swasta,,6.0,146.0,876.0,E-Wallet,2023-05-25,3.0,Indonesia,Tidak
+P071,31.0,Perempuan,Surabaya,SMA,Mahasiswa,1.7,9.0,289.0,2601.0,E-Wallet,2023-11-08,4.0,Indonesia,Tidak
+P004,23.0,Laki-laki,Malang,SMA,Karyawan Swasta,4.0,8.0,86.0,688.0,Transfer Bank,2023-09-13,3.0,Indonesia,Tidak
+P150,29.0,Laki-laki,Surabaya,SMA,Wiraswasta,1.5,8.0,194.0,1552.0,Ewallet,2024-01-24,2.0,Indonesia,Tidak
+P031,31.0,Laki-laki,Malang,SMA,Mahasiswa,3.1,12.0,152.0,1824.0,COD,2022-05-18,4.0,Indonesia,Tidak
+P004,23.0,Laki-laki,Malang,SMA,Karyawan Swasta,4.0,8.0,86.0,688.0,Transfer Bank,2023-09-13,3.0,Indonesia,Tidak
+P122,32.0,Perempuan,Bandung,D3,Freelancer,2.9,11.0,149.0,1639.0,Transfer Bank,2023-02-07,4.0,Indonesia,Tidak
+P107,150,Perempuan,Jakarta,S1,Mahasiswa,8.7,7.0,210.0,1470.0,E-Wallet,2022-12-21,5.0,Indonesia,Tidak
+P048,24.0,Perempuan,Jakarta,S1,Karyawan Swasta,150,7.0,193.0,1351.0,cod,2023-10-06,3.0,Indonesia,Tidak
+P116,27.0,Perempuan,Semarang,S1,PNS,10.7,7.0,289.0,2023.0,COD,2022-12-01,4.0,Indonesia,Ya
+P009,,Perempuan,Surabaya,S1, Freelancer ,4.8,8.0,150.0,1200.0,Transfer Bank,2023-06-11,4.0,Indonesia,Ya
+P061,24.0,perempuan,Malang,S1,Karyawan Swasta,7.3,9.0,160.0,1440.0,Kartu Kredit,2024-05-22,4.0,Indonesia,Ya
+P129,25.0,Laki-laki,Surabaya,D3,Karyawan Swasta,5.6,11.0,182.0,2002.0,COD,2024-05-13,4.0,Indonesia,Tidak
+P002,33.0,Laki-laki,,S1,Wiraswasta,7.4,10.0,423.0,4230.0,Kartu Kredit,2023-09-24,2.0,Indonesia,Tidak
+P058,32.0,Laki-laki,Bandung,S1,Karyawan Swasta,5.6,7.0,178.0,1246.0,E-Wallet,,3.0,Indonesia,Tidak
+P023,26.0,Perempuan,Surabya ,S1,Wiraswasta,,8.0,169.0,1352.0,,2022-11-13,4.0,Indonesia,Tidak
+P062,,Laki-laki,Jakarta,S2,Mahasiswa,10.0,7.0,296.0,2072.0,COD,2022-01-31,5.0,Indonesia,Tidak
+P064,20.0,Perempuan,Malang,Sarjana,Freelancer,6.3,6.0,104.0,624.0,Transfer Bank,2023-09-10,1.0,Indonesia,Tidak
+P008,48.0,Laki-laki,Semarang,S1,Mahasiswa,4.6,14.0,173.0,2422.0,COD,2023-11-22,5.0,Indonesia,Tidak
+P138,28.0,Laki-laki,Jakarta,SMA,Freelancer,3.8,5.0,162.0,810.0,Transfer Bank,2023-02-11,5.0,Indonesia,Tidak
+P087,25.0,Laki-laki,bandung ,S1,Wiraswasta,8.2,9.0,249.0,Rp 2.241,Kartu Kredit,03/10/2023,,Indonesia,Tidak
+P097,,Perempuan,Jakarta,SMA,Mahasiswa,7.6,13.0,53.0,689.0,Transfer Bank,2024-03-12,,Indonesia,Tidak
+P069,,Laki-laki,Surabaya,SMA,Mahasiswa,85,9.0,135.0,1215.0,E-Wallet,2022-09-06,,Indonesia,Ya
+P051,32.0,Perempuan,Surabaya,SMA,,3.6,13.0,203.0,2639.0,Kartu Kredit,2022-11-22,4.0,Indonesia,Tidak
+P143,,Perempuan,Jkt,S2,Wiraswasta,10.3,6.0,300.0,1800.0,E-Wallet,2023-03-13,3.0,Indonesia,Tidak
+P140,32.0,Perempuan,Surabaya,SMA, Wiraswasta ,6.1,5.0,443.0,2215.0,E-Wallet,2024-07-31,4.0,Indonesia,Tidak
+P102,21.0,Perempuan,Malang,S1,Mahasiswa,8.9,11.0,297.0,3267.0,E-Wallet,2024-07-15,4.0,Indonesia,Tidak
+P021,31.0,Perempuan,surabaya,S2,Karyawan Swasta,12.8,12.0,131.0,Rp 1.572,E-Wallet,2024-03-18,4.0,Indonesia,Tidak
+P026,21.0,perempuan,Surabaya,S1,Karyawan Swasta,7.0,15.0,279.0,4185.0,Kartu Kredit,2023-03-13,3.0,Indonesia,Tidak
+P135,40.0,Perempuan,Surabya ,S1,PNS,9.0,9.0,185.0,1665.0,,2023-05-12,4.0,Indonesia,Tidak
+P072,26.0,Perempuan,Jakarta,S2,Freelancer,9.8,17.0,120.0,2040.0,E-Wallet,2023-08-27,4.0,Indonesia,Tidak
+P130,22.0,Laki-laki,bandung ,D3,Karyawan Swasta,,6.0,304.0,1824.0,E-Wallet,2022-05-05,3.0,Indonesia,Tidak
+P145,45.0,,Jakarta,D3,PNS,6.2,12.0,182.0,2184.0,E-Wallet,2024-04-16,4.0,Indonesia,Tidak
+P080,49.0,Laki-laki,Semarang,S1,Karyawan Swasta,9.6,14.0,-,3920.0,Transfer Bank,2023-10-17,4.0,Indonesia,Tidak
+P134,18.0,Perempuan,Jakarta,SMA,Karyawan Swasta,1.5,8.0,313.0,2504.0,Transfer Bank,2024-07-02,0,Indonesia,Tidak
+P138,28.0,Laki-laki,Jakarta,SMA,Freelancer,3.8,5.0,162.0,810.0,Transfer Bank,2023-02-11,5.0,Indonesia,Tidak
+P073,30.0,Perempuan,Semarang,S1,Karyawan Swasta,8900000.0,9.0,175.0,9500000,Kartu Kredit,2022-11-20,4.0,Indonesia,Tidak
+P141,29.0,Laki-laki,Jakarta,D3,PNS,7.6,17.0,163.0,2771.0,Transfer Bank,2023-07-23,3.0,Indonesia,Tidak
+P038,46.0,Perempuan,Jakarta,SMA,,,9.0,182.0,1638.0,Transfer Bank,22/06/2022,4.0,Indonesia,Ya
